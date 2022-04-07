@@ -9,3 +9,7 @@ In it I used the following technologies:
   6. Moving platforms.
   7. Control character by touch and joystick.
   8. Switch type of ammo during the game, they are have different penetration
+
+
+Playmarket:
+https://play.google.com/store/apps/details?id=com.gorik333Games.OneManWar
