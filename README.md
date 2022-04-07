@@ -13,3 +13,6 @@ In it I used the following technologies:
 
 Playmarket:
 https://play.google.com/store/apps/details?id=com.gorik333Games.OneManWar
+
+Gameplay video:
+https://youtu.be/-_5XVMG07l0
